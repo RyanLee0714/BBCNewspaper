@@ -1,0 +1,55 @@
+header{
+  height: 15vh;
+  background-color: black;
+  color: white;
+}
+
+#logo{
+  height: 5vh;
+  margin-top: 4%;
+  margin-left: 6%;
+  float: left;
+}
+
+ul{
+  padding-top: 5%;
+}
+
+.nav{
+  list-style-type: none;
+  float:left;
+  padding-left: 4.5%;
+}
+
+main{
+  width: 100%;
+  background-color: #D8D4D4;
+  height: 400px;
+}
+
+main h1{
+  margin-left: 1%;
+}
+
+.leftsection{
+  width: 50%;
+  height: 356px;
+  margin-left: 1%;
+  background-image: url("trump.jpeg");
+  float: left;
+  color: white;
+}
+
+.leftSection h2{
+  font-size: 4rem;
+  font-weight: lighter;
+  margin-left: 3%;
+  margin-top: 235px;
+}
+
+.leftSection  p{
+  font-size: 1.7rem;
+  font-weight: 400;
+  margin-left: 3%;
+  margin-top: -15px;
+}
